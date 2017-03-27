@@ -1,3 +1,20 @@
 .img-p {
 	padding-bottom: 30px;
+	
+}
+
+h1 {
+	margin-bottom: 50px;
+}
+
+.rates {
+	position: absolute;
+	right: 20px;
+	top: 5px;
+}
+
+.fa-star-o {
+	color: gold;
+	font-size: 20px;
+	position: relative;  
 }
